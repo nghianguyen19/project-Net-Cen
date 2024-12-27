@@ -63,7 +63,7 @@ type Pokemon struct {
 }
 
 const (
-	numberOfPokemons = 649
+	numberOfPokemons = 60
 	baseURL          = "https://pokedex.org/#/"
 )
 
@@ -109,7 +109,7 @@ func crawlPokemonsDriver(numsOfPokemons int) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	os.WriteFile("../lib/pokedex.json", js, 0644)
+	os.WriteFile("../PokeBat/lib/pokedex.json", js, 0644)
 
 	if err = browser.Close(); err != nil {
 		log.Fatalf("could not close browser: %v", err)
