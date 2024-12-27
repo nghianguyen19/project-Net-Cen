@@ -1,0 +1,81 @@
+{
+  "Name": "nghia",
+  "ID": "12700156002",
+  "PlayerCoordinateX": 0,
+  "PlayerCoordinateY": 3,
+  "Inventory": [
+    {
+      "Name": "Meditite",
+      "Elements": [
+        "psychic",
+        "fighting"
+      ],
+      "EV": 0,
+      "Stats": {
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 55,
+        "Speed": 60,
+        "Sp_Attack": 40,
+        "Sp_Defense": 55
+      },
+      "Profile": {
+        "Height": 0.6,
+        "Weight": 11.2,
+        "CatchRate": 0,
+        "GenderRatio": {
+          "MaleRatio": 50,
+          "FemaleRatio": 50
+        },
+        "EggGroup": "Human-Like",
+        "HatchSteps": 5100,
+        "Abilities": "Pure-power, Telepathy"
+      },
+      "DamegeWhenAttacked": [
+        {
+          "Element": "flying",
+          "Coefficient": 2
+        },
+        {
+          "Element": "rock",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "fairy",
+          "Coefficient": 2
+        },
+        {
+          "Element": "grass",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "ghost",
+          "Coefficient": 2
+        },
+        {
+          "Element": "dark",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "dragon",
+          "Coefficient": 2
+        },
+        {
+          "Element": "fighting",
+          "Coefficient": 0.5
+        }
+      ],
+      "EvolutionLevel": 37,
+      "NextEvolution": "Medicham",
+      "Moves": [],
+      "Experience": 0,
+      "Level": 0
+    }
+  ],
+  "IsTurn": false,
+  "Addr": {
+    "IP": "127.0.0.1",
+    "Port": 56002,
+    "Zone": ""
+  }
+}

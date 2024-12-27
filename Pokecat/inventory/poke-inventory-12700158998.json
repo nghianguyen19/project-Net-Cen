@@ -1,0 +1,13 @@
+{
+  "Name": "user1",
+  "ID": "12700158998",
+  "PlayerCoordinateX": 9,
+  "PlayerCoordinateY": 2,
+  "Inventory": null,
+  "IsTurn": false,
+  "Addr": {
+    "IP": "127.0.0.1",
+    "Port": 58998,
+    "Zone": ""
+  }
+}
