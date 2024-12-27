@@ -1,0 +1,146 @@
+{
+  "Name": "Do",
+  "ID": "12700150961",
+  "PlayerCoordinateX": 1,
+  "PlayerCoordinateY": 11,
+  "Inventory": [
+    {
+      "Name": "Wailord",
+      "Elements": [
+        "water"
+      ],
+      "EV": 0,
+      "Stats": {
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 45,
+        "Speed": 60,
+        "Sp_Attack": 90,
+        "Sp_Defense": 45
+      },
+      "Profile": {
+        "Height": 14.5,
+        "Weight": 398,
+        "CatchRate": 0,
+        "GenderRatio": {
+          "MaleRatio": 50,
+          "FemaleRatio": 50
+        },
+        "EggGroup": "Field, Water 2",
+        "HatchSteps": 10200,
+        "Abilities": "Oblivious, Water-veil, Pressure"
+      },
+      "DamegeWhenAttacked": [
+        {
+          "Element": "grass",
+          "Coefficient": 2
+        },
+        {
+          "Element": "steel",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "electric",
+          "Coefficient": 2
+        },
+        {
+          "Element": "fire",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "",
+          "Coefficient": 0
+        },
+        {
+          "Element": "water",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "",
+          "Coefficient": 0
+        },
+        {
+          "Element": "ice",
+          "Coefficient": 0.5
+        }
+      ],
+      "EvolutionLevel": 0,
+      "NextEvolution": "",
+      "Moves": [],
+      "Experience": 0,
+      "Level": 0
+    },
+    {
+      "Name": "Wailord",
+      "Elements": [
+        "water"
+      ],
+      "EV": 0,
+      "Stats": {
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 45,
+        "Speed": 60,
+        "Sp_Attack": 90,
+        "Sp_Defense": 45
+      },
+      "Profile": {
+        "Height": 14.5,
+        "Weight": 398,
+        "CatchRate": 0,
+        "GenderRatio": {
+          "MaleRatio": 50,
+          "FemaleRatio": 50
+        },
+        "EggGroup": "Field, Water 2",
+        "HatchSteps": 10200,
+        "Abilities": "Oblivious, Water-veil, Pressure"
+      },
+      "DamegeWhenAttacked": [
+        {
+          "Element": "grass",
+          "Coefficient": 2
+        },
+        {
+          "Element": "steel",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "electric",
+          "Coefficient": 2
+        },
+        {
+          "Element": "fire",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "",
+          "Coefficient": 0
+        },
+        {
+          "Element": "water",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "",
+          "Coefficient": 0
+        },
+        {
+          "Element": "ice",
+          "Coefficient": 0.5
+        }
+      ],
+      "EvolutionLevel": 0,
+      "NextEvolution": "",
+      "Moves": [],
+      "Experience": 0,
+      "Level": 0
+    }
+  ],
+  "IsTurn": false,
+  "Addr": {
+    "IP": "127.0.0.1",
+    "Port": 50961,
+    "Zone": ""
+  }
+}

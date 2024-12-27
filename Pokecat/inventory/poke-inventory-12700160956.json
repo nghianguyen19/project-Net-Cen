@@ -1,0 +1,72 @@
+{
+  "Name": "long",
+  "ID": "12700160956",
+  "PlayerCoordinateX": 3,
+  "PlayerCoordinateY": 1,
+  "Inventory": [
+    {
+      "Name": "Absol",
+      "Elements": [
+        "dark"
+      ],
+      "EV": 0,
+      "Stats": {
+        "HP": 45,
+        "Attack": 130,
+        "Defense": 60,
+        "Speed": 75,
+        "Sp_Attack": 75,
+        "Sp_Defense": 60
+      },
+      "Profile": {
+        "Height": 1.2,
+        "Weight": 47,
+        "CatchRate": 0,
+        "GenderRatio": {
+          "MaleRatio": 50,
+          "FemaleRatio": 50
+        },
+        "EggGroup": "Field",
+        "HatchSteps": 6375,
+        "Abilities": "Pressure, Super-luck, Justified"
+      },
+      "DamegeWhenAttacked": [
+        {
+          "Element": "fighting",
+          "Coefficient": 2
+        },
+        {
+          "Element": "ghost",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "bug",
+          "Coefficient": 2
+        },
+        {
+          "Element": "dark",
+          "Coefficient": 0.5
+        },
+        {
+          "Element": "fairy",
+          "Coefficient": 2
+        },
+        {
+          "Element": "psychic",
+          "Coefficient": 0
+        }
+      ],
+      "EvolutionLevel": 0,
+      "NextEvolution": "",
+      "Moves": [],
+      "Experience": 0,
+      "Level": 0
+    }
+  ],
+  "IsTurn": false,
+  "Addr": {
+    "IP": "127.0.0.1",
+    "Port": 60956,
+    "Zone": ""
+  }
+}

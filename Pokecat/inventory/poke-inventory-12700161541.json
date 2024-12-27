@@ -1,0 +1,13 @@
+{
+  "Name": "Do",
+  "ID": "12700161541",
+  "PlayerCoordinateX": 3,
+  "PlayerCoordinateY": 8,
+  "Inventory": null,
+  "IsTurn": false,
+  "Addr": {
+    "IP": "127.0.0.1",
+    "Port": 61541,
+    "Zone": ""
+  }
+}
