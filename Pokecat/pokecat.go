@@ -108,7 +108,7 @@ func PassingPlayertoJson(filename string, player *Player) {
 
 }
 func getRandomPokemon() (*Pokemon, error) {
-	fileName := "C:/Users/Admin/OneDrive - VietNam National University - HCM INTERNATIONAL UNIVERSITY/Desktop/PokemonBattle-main/poke-batlte/lib/pokedex.json"
+	fileName := "../PokeBat/lib/pokedex.json"
 
 	data, err := os.ReadFile(fileName)
 	if err != nil {
